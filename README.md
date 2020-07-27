@@ -13,7 +13,7 @@ Alfresco Community 5.2.g
 
 ### ISSUES TO SOLVE
 
-On Alfresco boot while loadinf the bpmn i get this error:
+On Alfresco boot while loading the bpmn i get this error:
 
 
 ERROR [web.context.ContextLoader] [localhost-startStop-1] Context initialization failed
