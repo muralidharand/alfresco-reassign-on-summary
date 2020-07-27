@@ -4,6 +4,8 @@ Alfresco Share: make the reassign action visualizable on the summary of the work
 
 This is a repository test for the question : https://stackoverflow.com/questions/57219162/capture-alfresco-workflow-task-re-assignment-and-display-it-in-workflow-summary?noredirect=1#comment111426735_57219162
 
+![Img](https://i.stack.imgur.com/Uoil3.png)
+
 ### System Verisone
 
 Alfresco Community 5.2.g
