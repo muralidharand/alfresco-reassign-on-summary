@@ -6,7 +6,7 @@ This is a repository test for the question : https://stackoverflow.com/questions
 
 ![Img](https://i.stack.imgur.com/Uoil3.png)
 
-### System Verison
+### Alfresco Version
 
 Alfresco Community 5.2.g
 
